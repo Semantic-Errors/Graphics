@@ -1,2 +1,6 @@
 bin/
 *.o
+
+
+node_modules/
+package-lock.json
